@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "243418990846",
+    "firebase_url": "https://myforo-1ffaa-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "myforo-1ffaa",
+    "storage_bucket": "myforo-1ffaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243418990846:android:516b1fa31d3046e1a6fdaf",
+        "android_client_info": {
+          "package_name": "com.example.myforo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243418990846-ebpuh5g5jeae6n7th9kqp80hk8jo2nud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDce2lnyR10JqdnGS2cf3e1ALrqYyTXVzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243418990846-ebpuh5g5jeae6n7th9kqp80hk8jo2nud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
